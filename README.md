@@ -1,19 +1,7 @@
 # wiki
 
-## Useful links
-https://excalidraw.com
-
-
-https://www.figma.com/ko-kr
-
-
-https://www.drawio.com
-
-
-https://mermaid.js.org
-
-
-https://www.erdcloud.com
+## ERD
+https://www.erdcloud.com/d/PZhN2nMas7xa4vJ2L
 
 
 ## commit-message-style-guide
@@ -73,3 +61,15 @@ git push origin feature/{이슈번호}-{작업명}
 - 이슈 번호 연결 (`Closes #23` 등 PR 본문에 명시 시, 머지 시 이슈 자동 종료)
 - 리뷰어 지정 후 코드리뷰 진행
 - 리뷰 승인 후 Merge
+
+
+## Useful links
+https://excalidraw.com
+
+https://www.figma.com/ko-kr
+
+https://www.drawio.com
+
+https://mermaid.js.org
+
+https://www.erdcloud.com
